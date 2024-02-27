@@ -1,0 +1,48 @@
+#privacy{
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.privacy_top h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #282938;
+}
+.privacy_top p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #282938;
+    opacity: 0.7;
+    padding: 0 30px;
+}
+
+.privacy_btm h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    color: #282938;
+    line-height: 46px;
+}
+.privacy_btm p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color: #282938;
+    opacity: 0.7;
+    line-height: 25px;
+}
+.privacy_btm h6{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color: #282938;
+    opacity: 0.7;
+    line-height: 25px;
+}
+.privacy_btm span{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color: #2405F2;
+}

@@ -1,0 +1,90 @@
+#benefit2{
+    padding: 80px 0;
+}
+
+.benefit_head h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #282938;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.benefit_item{
+    background-color: #F4F6FC;
+    padding: 35px 30px;
+    margin-bottom: 20px;
+    margin-bottom: 50px;
+}
+
+.benefit_item h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #282938;
+    padding-top: 15px;
+}
+
+.benefit_item p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color: #282938;
+    opacity: 0.7;
+}
+
+.benefit_logo3 img{
+    width: 80%;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+
+@media(max-width:575px){
+
+    #benefit {
+        padding: 40px 0;
+    }
+    .benefit_head h2 {
+        padding-top: 40px;
+    }
+    .benefit_item {
+        background-color: #F4F6FC;
+        padding: 20px 10px;
+        margin-bottom: 0px;
+    }
+
+ }
+ 
+ @media(min-width:576px) and (max-width:767px){
+
+    #benefit {
+        padding: 40px 0;
+    }
+    .benefit_head h2 {
+        padding-top: 40px;
+    }
+    .benefit_item {
+        background-color: #F4F6FC;
+        padding: 20px 10px;
+        margin-bottom: 0px;
+    }
+
+ }
+ 
+ @media(min-width:768px) and (max-width:991px){
+
+    #benefit {
+        padding: 40px 0;
+    }
+    .benefit_head h2 {
+        padding-top: 40px;
+    }
+    .benefit_item {
+        background-color: #F4F6FC;
+        padding: 20px 10px;
+        margin-bottom: 0px;
+    }
+
+ }

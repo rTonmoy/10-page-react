@@ -1,0 +1,196 @@
+#contact{
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+.contact_top h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #282938;
+}
+.contact_top p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color: #282938;
+    opacity: 0.7;
+    padding: 0 30px;
+}
+.contact_form{
+    background-color: #F4F6FC;
+    padding: 50px 40px;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+.contact_form h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #000;
+}
+.inp1{
+    display: inline-block;
+}
+.input1{
+    width: 400px;
+    height: 45px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    background-color: transparent;
+    box-sizing: border-box;
+    padding-left: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000;
+    margin-right: 30px;
+}
+.inp2{
+    display: inline-block;
+}
+.input2{
+    width: 400px;
+    height: 45px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    background-color: transparent;
+    box-sizing: border-box;
+    padding-left: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000;
+}
+.inp3{
+    display: inline-block;
+    padding-top: 25px;
+}
+.input3{
+    width: 400px;
+    height: 45px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    background-color: transparent;
+    box-sizing: border-box;
+    padding-left: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000;
+    margin-right: 30px;
+}
+.inp4{
+    display: inline-block;
+}
+.input4{
+    width: 400px;
+    height: 45px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    background-color: transparent;
+    box-sizing: border-box;
+    padding-left: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000;
+}
+.inp5{
+    padding-top: 20px;
+}
+.input5{
+    width: 832px;
+    height: 125px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    background-color: transparent;
+    box-sizing: border-box;
+    padding-left: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: black;
+}
+.contact_form a{
+    background-color: #282938;
+    color: #F4F6FC;
+    margin-top: 30px;
+    padding: 12px 40px;
+    border-radius: 35px;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    -ms-border-radius: 35px;
+    -o-border-radius: 35px;
+}
+
+
+@media(max-width:575px){
+
+    .anch{
+        text-align: center ;
+    }
+    .input5{
+        width: 400px;
+        height: 95px;
+    }
+
+ }
+ 
+ @media(min-width:576px) and (max-width:767px){
+
+        .anch{
+            text-align: center ;
+        }
+        .input5{
+            width: 400px;
+            height: 105px;
+        }
+
+ }
+ 
+ @media(min-width:768px) and (max-width:991px){
+
+                .input5{
+                    width: 400px;
+                    height: 105px;
+                }
+
+ }
+ 
+ @media(min-width:992px) and (max-width:1199px){
+    
+                 /* Contact */
+                 .input5{
+                    width: 400px;
+                    height: 105px;
+                }
+                /* Contact */
+
+
+ 
+ }

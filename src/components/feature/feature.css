@@ -1,0 +1,262 @@
+#feature{
+    background-color: #F4F6FC;
+    padding: 60px 0;
+}
+
+.feature_head h6{
+font-family: 'Poppins', sans-serif;
+font-weight: 400;
+font-size: 14px;
+color: #282938;
+}
+
+.feature_head h2{
+font-family: 'Poppins', sans-serif;
+font-weight: 500;
+font-size: 35px;
+color: #282938;
+}
+
+.feature_padd{
+padding-bottom: 50px;
+}
+
+.feature_item{
+background-color: #FFFFFF;
+padding: 30px 13px;
+margin-bottom: 20px;
+}
+
+.feature_item h4{
+font-family: 'Poppins', sans-serif;
+font-weight: 500;
+font-size: 20px;
+color: #282938;
+padding-top: 15px;
+}
+
+.feature_item p{
+font-family: 'Poppins', sans-serif;
+font-weight: 300;
+font-size: 14px;
+color: #282938;
+opacity: 0.7;
+}
+
+
+@media(max-width:575px){
+    /* nav */
+    .navbar-toggler i{
+     color: #FFF;
+     font-size: 35px;
+     transition: .4s;
+     -webkit-transition: .4s;
+     -moz-transition: .4s;
+     -ms-transition: .4s;
+     -o-transition: .4s;
+ }
+    .navbar-toggler i:hover{
+     color: #FCD980;
+    }
+    .navbar {
+     --bs-navbar-toggler-focus-width: 0;
+     --bs-navbar-toggler-border-color: none;
+     }
+    /* nav */
+ 
+    /* banner */
+    #banner{
+     padding: 40px 0;
+    }
+    .banner_left{
+     text-align: center;
+    }
+    #banner .banner_left h1 {
+     font-size: 40px;
+    }
+    #banner .banner_left p {
+     font-family: 'Poppins', sans-serif;
+     font-weight: 200;
+     font-size: 18px;
+     padding-top: 10px;
+     padding-bottom: 5px;
+     padding-right: 0px;
+ }
+ #banner .banner_left .banner_button a {
+     padding: 8px 20px;
+     margin-bottom: 20px;
+ }
+    /* banner */
+ 
+    /* work */
+    #work{
+     padding: 40px 0;
+    }
+    .work_left{
+     text-align: center;
+    }
+    .work_left p {
+     font-size: 18px;
+     padding: 0 0;
+ }
+ .work_left a {
+     padding-bottom: 30px;
+ }
+    /* work */
+ 
+    /* project */
+    #project{
+     padding: 50px 0;
+    }
+    .project_head h2 {
+     font-size: 28px;
+ }
+ .project_btm_text1 {
+     bottom: 50px;
+     padding: 0 20px;
+ }
+ .project_btm_text1 h2 {
+     font-size: 16px;
+ }
+ .project_btm_text1 p {
+     font-size: 11px;
+     padding-right: 0px;
+     padding-top: 0px;
+ }
+ .project_btm_text1 a {
+     font-size: 12px;
+     padding-top: 5px;
+ }
+ .project_btm_right {
+     margin-top: 24px;
+ }
+ .project_btm_text2 h2 {
+     font-size: 16px;
+     line-height: 20px;
+ }
+    /* project */
+ 
+    /* feature */
+    #feature {
+     padding: 40px 0;
+ }
+ .feature_head h2 {
+     font-size: 26px;
+ }
+    /* feature */
+ 
+    /* client */
+    .cleint_left{
+     text-align: center;
+    }
+    .cleint_left h3 {
+     padding-right: 0px;
+ }
+ .client_right{
+     text-align: center;
+ }
+ .client_right p {
+     font-size: 24px;
+     line-height: 36px;
+ }
+    /* client */
+ 
+    /* FAQ */
+    #faq {
+     padding: 40px 0;
+ }
+    .faq_left{
+     text-align: center;
+    }
+    .faq_left h3 {
+     font-size: 30px;
+ }
+ .faq_left a {
+     font-size: 16px;
+ }
+ 
+ .stellar_right {
+     margin-top: 0px;
+ }
+ .stellar_text {
+     padding: 0 30px;
+     text-align: center;
+ }
+ .stellar_text h2 {
+     font-size: 35px;
+     text-align: center;
+ }
+ .stellar_text p {
+     font-size: 16px;
+     padding-right: 0px;
+     padding-top: 20px;
+ }
+ .stellar_right {
+     text-align: center;
+ }
+ .stellar_input1 input {
+     width: 360px;
+ }
+ .stellar_input2 input {
+     width: 360px;
+ }
+ .stellar_input3 input {
+     width: 360px;
+ }
+ .stellar_anchore1 a {
+     width: 360px;
+ }
+ .stellar_anchore2 a {
+     width: 360px;
+ }
+    /* FAQ */
+ 
+    /* Blog */
+    .blog_head{
+     text-align: center;
+    }
+    .blog_head h2 {
+     padding-bottom: 20px;
+ }
+    /* Blog */
+ 
+    /* footer */
+    footer {
+     padding-bottom: 30px;
+ }
+    .footer_hd_right h2 {
+     padding-top: 20px;
+ }
+    /* footer */
+ 
+    /* footer2 */
+    .footer2_left{
+     text-align: center;
+    }
+    .footer2_right{
+     text-align: center;
+    }
+    /* footer2 */
+ }
+ 
+ @media(min-width:576px) and (max-width:767px){
+    #feature {
+     padding: 40px 0;
+ }
+ .feature_head h2 {
+     font-size: 26px;
+ }
+
+ }
+ 
+ @media(min-width:768px) and (max-width:991px){
+ 
+        #feature {
+         padding: 40px 0;
+     }
+     .feature_head h2 {
+         font-size: 26px;
+     }
+
+ }
+ 

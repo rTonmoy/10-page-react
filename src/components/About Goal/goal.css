@@ -1,0 +1,79 @@
+.container2{
+    background-color: #F4F5F5;
+    padding: 50px 50px;
+}
+
+.goal_left h5{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    color: #282938;
+}
+
+.goal_left h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    color: #282938;
+    padding: 10px 0;
+}
+
+.goal_left p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    color: #282938;
+    opacity: 0.7;
+}
+
+.goal_right h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    color: #282938;
+    padding-top: 32px;
+    padding-bottom: 10px;
+}
+
+.goal_right p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    color: #282938;
+    opacity: 0.7;
+}
+
+
+
+@media(max-width:575px){
+   
+    .goal_left{
+        text-align: center;
+    }
+    .goal_right{
+        text-align: center;
+    }
+
+ }
+ 
+ @media(min-width:576px) and (max-width:767px){
+  
+    .goal_left{
+        text-align: center;
+    }
+    .goal_right{
+        text-align: center;
+    }
+ 
+ }
+ 
+ @media(min-width:768px) and (max-width:991px){
+   
+    .goal_left{
+        text-align: center;
+    }
+    .goal_right{
+        text-align: center;
+    }
+  
+ }

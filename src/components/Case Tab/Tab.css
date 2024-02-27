@@ -1,0 +1,54 @@
+#tab{
+    padding: 80px 0;
+}
+
+.tab_border1{
+    border-top: 1px solid #282938;
+    opacity: 0.2;
+    padding-bottom: 25px;
+}
+.tab_border2{
+    border-bottom: 1px solid #282938;
+    opacity: 0.2;
+    padding-top: 7px;
+}
+
+.tab_list ul{
+    display: flex;
+    justify-content: space-between;
+    margin-left: -35px;
+    flex-wrap: wrap;
+}
+.tab_list ul li a{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #282938 ;
+    opacity: 0.7;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+
+.tab_list ul li a:hover{
+    font-size: 21px;
+    color: #2405F2;
+}
+
+
+@media(max-width:575px){
+
+    .tab_list ul li{
+        padding-right: 40px;
+    }
+
+ }
+ 
+ @media(min-width:576px) and (max-width:767px){
+        .tab_list ul li{
+            padding-right: 40px;
+        }
+        
+ }

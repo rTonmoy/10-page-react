@@ -1,0 +1,31 @@
+#process{
+    padding: 70px 0;
+}
+
+.process_head h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #282938;
+    padding-bottom: 30px;
+}
+
+.process_img img{
+    padding-right: 4px;
+}
+.process_text h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 21px;
+    color: #282938;
+    padding-top: 20px;
+}
+
+.process_text p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    color: #282938;
+    opacity: 0.7;
+    padding-top: 10px;
+}
