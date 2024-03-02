@@ -21,11 +21,9 @@ const Banner = () => {
                 </Col>
 
                 <Col lg={6}>
-                <div className="col-lg-6">
                     <div className="banner_right">
                         <img src={banner} className='w-100' alt="" />
                     </div>
-                </div>
                 </Col>
             </Row>
         </Container>

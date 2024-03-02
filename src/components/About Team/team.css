@@ -77,6 +77,41 @@
     }
 
  }
+
+ @media(min-width:320px) and (max-width:480px){
+    .contact_form{
+        text-align: center;
+    }
+    .input1 {
+        width: 225px !important;
+        height: 40px !important;
+        margin-bottom: 10px;
+        margin-right: 0 !important;
+    }
+    .input2 {
+        width: 225px !important;
+        height: 40px !important;
+        margin-bottom: 10px;
+    }
+    .input3 {
+        width: 225px !important;
+        height: 40px !important;
+        margin-bottom: 10px;
+        margin-right: 0 !important;
+    }
+    .input4 {
+        width: 225px !important;
+        height: 40px !important;
+        margin-bottom: 10px;
+    }
+    .input5 {
+        width: 225px !important;
+        height: 90px !important;
+    }
+    .contact_form a {
+        padding: 8px 20px !important;
+    }
+ }
  
  @media(min-width:576px) and (max-width:767px){
 

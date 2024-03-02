@@ -21,7 +21,7 @@ const Team = () => {
             </Row>
 
             <Row>
-                <Col xs={6} lg={3}>
+                <Col xs={12} lg={3}>
                    <div className="team_item text-center">
                             <img src={team1} alt="" />
                             <div className="about_overlay">
@@ -36,7 +36,7 @@ const Team = () => {
                         </div>
                     </div>
                 </Col>
-                <Col xs={6} lg={3}>
+                <Col xs={12} lg={3}>
                    <div className="team_item text-center">
                             <img src={team2} alt="" />
                             <div className="about_overlay">
@@ -51,7 +51,7 @@ const Team = () => {
                         </div>
                     </div>
                 </Col>
-                <Col xs={6} lg={3}>
+                <Col xs={12} lg={3}>
                    <div className="team_item text-center">
                             <img src={team3} alt="" />
                             <div className="about_overlay">
@@ -66,7 +66,7 @@ const Team = () => {
                         </div>
                     </div>
                 </Col>
-                <Col xs={6} lg={3}>
+                <Col xs={12} lg={3}>
                    <div className="team_item text-center">
                             <img src={team4} alt="" />
                             <div className="about_overlay">
